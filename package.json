@@ -1,0 +1,24 @@
+{
+  "name": "lab-4-web-dev",
+  "version": "1.0.0",
+  "description": "Web Development Lab 4 TypeScript on Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliKhalil7/Lab-4-Web-Dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AliKhalil7/Lab-4-Web-Dev/issues"
+  },
+  "homepage": "https://github.com/AliKhalil7/Lab-4-Web-Dev#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

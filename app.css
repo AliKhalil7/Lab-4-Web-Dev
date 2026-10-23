@@ -1,0 +1,27 @@
+.firstdiv{
+    align-items: center;
+    text-align: center;
+   
+    Margin: 100px 100px 500px 100px;
+    background-color: grey;
+    border-radius: 8px;      /* rounded corners */
+    box-shadow: 0 2px 5px rgba(0,0,0,1); /* horizontal offset, vertical offset, blur, color */
+    
+}
+#list{
+    
+    text-align: left;
+    margin: 20px 100px 20px 100px; /* top right bottom left */
+  
+}
+#list p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+     margin: 20px 100px 20px 100px;
+}
+#list button {
+    color: red;
+    cursor: pointer;
+}
